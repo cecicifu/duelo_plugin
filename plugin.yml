@@ -1,7 +1,7 @@
 name: BTDuel
 version: 1.0
-author: beltez
-main: es.beltez.duelo.Duelo
+author: srcifu
+main: es.srcifu.duelo.Duelo
 commands:
 	duelo:
 		description: Permite hacer duelos con otros jugadores
